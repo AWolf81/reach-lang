@@ -1,5 +1,15 @@
 # Change Log
 
+## 0.1.5
+
+This version provides no feature additions, changes or removals.
+
+Only internal, infrastructural changes have occurred. The files for this extension now live in a subdirectory of a larger repository, instead of in the root directory of their own repository.
+
+**VERSIONING CHANGE**
+
+We are going to try to make releases of this extension match Reach's versioning, starting now.
+
 ## 0.0.9
 
 Use Reach JSON error format for diagnostic highlighting and quick fixes.  
